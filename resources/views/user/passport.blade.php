@@ -1,0 +1,1 @@
+<h1>halo pemilik passport {{ $passport->user->name }} no passport {{ $passport->no_pass }}</h1>
